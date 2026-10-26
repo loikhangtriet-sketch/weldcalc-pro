@@ -1,0 +1,6 @@
+{
+  "name": "WeldCalc Pro — Dự Toán & Định Mức Hàn Kết Cấu",
+  "description": "Ứng dụng tính toán thể tích kim loại đắp, định mức tiêu hao vật tư hàn (Weld BOM), dự toán chi phí thi công và xuất mã nguồn Streamlit Python theo tiêu chuẩn AWS A2.4 & ISO 2553.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

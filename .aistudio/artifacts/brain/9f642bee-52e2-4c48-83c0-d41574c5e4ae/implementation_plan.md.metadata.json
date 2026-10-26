@@ -1,0 +1,6 @@
+{
+  "summary":  "Implementation plan for removing the secondary gray segmented tab bar (using only the Top Navigation Bar) and adding a 12-language Date Range filter (From Date - To Date + 7 Days / 30 Days / All Time quick presets) that filters both the live discussion feed and exported Excel (.xlsx) / TXT logs.",
+  "updatedAt":  "2026-10-26T11:49:00.739005393Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}
